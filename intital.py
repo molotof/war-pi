@@ -1,5 +1,5 @@
-    #wardrive-led-controll
-    #This is a Python script that controlls the leds on a
+    #wardrive
+    #This is a Python script that controls the leds on a
     #Berryclip connected to the GPIO header on a
     #Rasberry Pi model B.
     #It checks if kismet_server and gpsd is running,and controlls LED1 and LED2 accordingly.
